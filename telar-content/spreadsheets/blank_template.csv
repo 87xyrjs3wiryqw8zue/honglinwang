@@ -1,6 +1,6 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,telar-placeholder,0.5,0.5,1,,question,answer,,,,,,,,
+1,telar-placeholder,0.5,0.5,1,,Introduction,"Love is a very mystery concept in human’s world. Love can exist in everywhere, and love has more than one form. Love can be romantic, supportive, caring, inclusive, and so on. In this exhibition, I will show my discovery of love in school University of California, Santa Barbara(UCSB), and the connection between it and the articles written by......",,,,,,,,
 2,img6594,0.5,0.5,1,,Love of Inclusion,"The books in UCSB library.
-They are books about Chinese traditional philosophy.",,,,,,,,
+They are books about Chinese traditional philosophy.",,Learn more,blank_template-ph.md,,,,,
 3,telar-placeholder,0.5,0.5,1,,question,answer,,,,,,,,
